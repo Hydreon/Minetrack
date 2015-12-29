@@ -1,6 +1,11 @@
 {
 	"servers": [
 		{
+			"name": "Lifeboat",
+			"ip": "play.lbsg.net",
+			"type": "PE"
+		},
+		{
 			"name": "Hypixel",
 			"ip": "mc.hypixel.net",
 			"type": "PC"
@@ -146,8 +151,8 @@
 			"type": "PC"
 		},
 		{
-			"name": "Island Clash",
-			"ip": "play.islandclash.com",
+			"name": "Jerry and Harry",
+			"ip": "play.itsjerryandharry.com",
 			"type": "PC"
 		},
 		{
@@ -168,11 +173,13 @@
 		"/js/util.js": "assets/js/util.js",
 		"/css/main.css": "assets/css/main.css",
 		"/favicons/hypixelpe.png": "assets/images/favicons/hypixelpe.png",
+		"/favicons/lifeboat.png": "assets/images/favicons/lifeboat.png",
 		"/favicons/mineplex.png": "assets/images/favicons/mineplex.png",
 		"/favicons/mobcrush.png": "assets/images/favicons/mobcrush.png"
 	},
 	"faviconOverride": {
 		"Hypixel PE": "/favicons/hypixelpe.png",
+		"Lifeboat": "/favicons/lifeboat.png",
 		"Mineplex": "/favicons/mineplex.png",
 		"Mobcrush Land": "/favicons/mobcrush.png"
 	},
