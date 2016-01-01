@@ -191,7 +191,7 @@
 		"upateMojangStatus": 5000,
 		"mojangStatusTimeout": 3500,
 		"pingAll": 3000,
-		"connectTimeout": 2500
+		"connectTimeout": 5000
 	},
 	"logToDatabase": true,
 	"graphDuration": 86400000
