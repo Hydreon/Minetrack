@@ -2,7 +2,7 @@
 	"servers": [
 		{
 			"name": "Lifeboat",
-			"ip": "play.lbsg.net",
+			"ip": "stats.lbsg.net",
 			"type": "PE"
 		},
 		{
