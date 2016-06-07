@@ -71,11 +71,6 @@
 			"type": "PC"
 		},
 		{
-			"name": "Hypixel PE",
-			"ip": "pe.hypixel.net",
-			"type": "PE"
-		},
-		{
 			"name": "Cosmic PVP",
 			"ip": "cosmicpvp.me",
 			"type": "PC"
