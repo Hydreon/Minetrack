@@ -1,7 +1,7 @@
 {
 	"servers": [
 		{
-			"name": "Lifeboat",
+			"name": "Lifeboat PE",
 			"ip": "stats.lbsg.net",
 			"type": "PE"
 		},
@@ -51,8 +51,8 @@
 			"type": "PC"
 		},
 		{
-			"name": "The Nexus",
-			"ip": "hub.thenexusmc.com",
+			"name": "Lifeboat PC",
+			"ip": "pc.lbsg.net",
 			"type": "PC"
 		},
 		{
@@ -174,7 +174,8 @@
 	},
 	"faviconOverride": {
 		"Hypixel PE": "/favicons/hypixelpe.png",
-		"Lifeboat": "/favicons/lifeboat.png",
+		"Lifeboat PE": "/favicons/lifeboat.png",
+		"Lifeboat PC": "/favicons/lifeboat.png",
 		"Mineplex": "/favicons/mineplex.png",
 		"Mobcrush Land": "/favicons/mobcrush.png"
 	},
