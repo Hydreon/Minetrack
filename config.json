@@ -21,11 +21,6 @@
 			"type": "PC"
 		},
 		{
-			"name": "Overcast",
-			"ip": "us.oc.tc",
-			"type": "PC"
-		},
-		{
 			"name": "Shotbow",
 			"ip": "us.shotbow.net",
 			"type": "PC"
@@ -121,18 +116,8 @@
 			"type": "PE"
 		},
 		{
-			"name": "Battlemine",
-			"ip": "mc.battlemine.net",
-			"type": "PC"
-		},
-		{
 			"name": "Arkham",
 			"ip": "mc.arkhamnetwork.org",
-			"type": "PC"
-		},
-		{
-			"name": "VikkCraft",
-			"ip": "hub.vikkcraft.com",
 			"type": "PC"
 		},
 		{
@@ -157,7 +142,7 @@
 		},
 		{
 			"name": "INPVP",
-			"ip": "play.inpvp.net",
+			"ip": "inpvp.net",
 			"type": "PE"
 		}
 	],
