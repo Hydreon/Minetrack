@@ -51,11 +51,6 @@
 			"type": "PC"
 		},
 		{
-			"name": "Kohi",
-			"ip": "kohi.us",
-			"type": "PC"
-		},
-		{
 			"name": "Wynncraft",
 			"ip": "play.wynncraft.com",
 			"type": "PC"
@@ -73,11 +68,6 @@
 		{
 			"name": "PartyZone",
 			"ip": "play.mcpz.net",
-			"type": "PC"
-		},
-		{
-			"name": "The Chunk",
-			"ip": "hub.thechunk.net",
 			"type": "PC"
 		},
 		{
@@ -142,7 +132,7 @@
 		},
 		{
 			"name": "INPVP",
-			"ip": "inpvp.net",
+			"ip": "play.inpvp.net",
 			"type": "PE"
 		}
 	],
