@@ -134,7 +134,33 @@
 			"name": "INPVP",
 			"ip": "play.inpvp.net",
 			"type": "PE"
-		}
+		},
+		{
+			"name": "Minecraft Central",
+			"ip": "mc-central.net",
+			"tpye": "PC"
+		},
+		{
+			"name": "PrimeMC",
+			"ip": "play.primemc.org",
+			"type": "PC",
+		},
+		{
+			"name": "Omegacraft",
+			"ip": "omegacraft.cl",
+			"type": "PC",
+		},
+		{
+			"name": "Epicube",
+			"ip": "play.epicube.fr",
+			"type": "PC",
+		},
+		{
+			"name": "UberMC",
+			"ip": "ubermc.net",
+			"type": "PC"
+		},
+			
 	],
 	"routes": {
 		"/": "assets/html/index.html",
