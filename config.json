@@ -143,23 +143,23 @@
 		{
 			"name": "PrimeMC",
 			"ip": "play.primemc.org",
-			"type": "PC",
+			"type": "PC"
 		},
 		{
 			"name": "Omegacraft",
 			"ip": "omegacraft.cl",
-			"type": "PC",
+			"type": "PC"
 		},
 		{
 			"name": "Epicube",
 			"ip": "play.epicube.fr",
-			"type": "PC",
+			"type": "PC"
 		},
 		{
 			"name": "UberMC",
 			"ip": "ubermc.net",
 			"type": "PC"
-		},
+		}
 			
 	],
 	"routes": {
